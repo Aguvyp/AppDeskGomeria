@@ -1,0 +1,6 @@
+C:\Users\augus\source\repos\GomeriaPedrito\CapaEntidad\bin\Debug\CapaEntidad.dll
+C:\Users\augus\source\repos\GomeriaPedrito\CapaEntidad\bin\Debug\CapaEntidad.pdb
+C:\Users\augus\source\repos\GomeriaPedrito\CapaEntidad\obj\Debug\CapaEntidad.csproj.AssemblyReference.cache
+C:\Users\augus\source\repos\GomeriaPedrito\CapaEntidad\obj\Debug\CapaEntidad.csproj.CoreCompileInputs.cache
+C:\Users\augus\source\repos\GomeriaPedrito\CapaEntidad\obj\Debug\CapaEntidad.dll
+C:\Users\augus\source\repos\GomeriaPedrito\CapaEntidad\obj\Debug\CapaEntidad.pdb
